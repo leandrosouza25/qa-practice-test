@@ -1,6 +1,6 @@
 # QA Practice Test — Leandro Souza 
 
-Repositório com a solução completa do teste técnico para a vaga de QA Junior no Grupo PCA.
+Repositório com a solução completa do teste técnico para a vaga de QA.
 
 O teste foi dividido em duas partes principais: UI Testing (Sauce Demo) e API Testing (Restful-Booker).
 
