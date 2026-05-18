@@ -6,13 +6,15 @@ O teste foi dividido em duas partes principais: UI Testing (Sauce Demo) e API Te
 
 
 
-##  Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 
-- **Postman** — execução e automação dos testes de API
-- **Newman** — execução da collection via linha de comando (opcional)
-- **Navegador Google Chrome** — execução dos testes de UI
-- **VSCode** — organização e documentação do projeto
-- **Markdown** — documentação de todos os artefatos
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 
 
